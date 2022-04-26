@@ -252,5 +252,3 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/android,kotlin,java,androidstudio,windows,macos
 
-/app/schemas/com.prayer.time.tv.android.db.Database/1.json
-
